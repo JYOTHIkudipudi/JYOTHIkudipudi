@@ -1,4 +1,4 @@
-<h1 align="center"> I'm JYOTHI Kudipudi 👋</h1>
+<h1 align="center"> I'm JYOTHI Kudipudi </h1>
 <p align="center">
   <b>🚀 Aspiring Software Engineer | Cloud & DevOps Enthusiast | RHCSA | Problem Solver</b>
 </p>
