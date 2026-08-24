@@ -1,52 +1,63 @@
-<h1 align="center">Hi, I'm Jyothi Kudipudi </h1>
+<h1 align="center">Hi, I'm Jyothi Kudipudi 👋</h1>
+
 <p align="center">
-  <b>Final-year CSE Student | RHCSA | Problem Solver</b>
+  <b>Computer Science Graduate | Software Developer</b>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/CGPA-8.8-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Final%20Year-Student-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/College-Aditya-pink?style=for-the-badge" />
+  Building applications with Java, Spring Boot, React, and modern web technologies.
 </p>
 
 ---
 
-## 💡 About Me
+## 👩‍💻 About Me
 
-I’m Jyothi Kudipudi, a final-year Computer Science and Engineering student at Aditya College of Engineering and Technology with a CGPA of 8.8.
+I am a Computer Science and Engineering graduate with a strong foundation in software development, problem-solving, and core computer science concepts.
 
-I have a strong foundation in **C, C++, and Java**, along with a solid understanding of **Data Structures and Algorithms (DSA)**.
+My technical background includes **C++, Java, JavaScript, React, Spring Boot, MySQL, and AWS**. I enjoy building applications, working with APIs, and developing practical solutions using modern technologies.
 
-I’m passionate about building **scalable software solutions** and working with **cloud and full-stack technologies**. With a DSA-focused problem-solving approach, I’m actively seeking opportunities in **software engineering** to contribute to meaningful projects and grow as a well-rounded engineer.
+I also have knowledge of **Data Structures and Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** C, C++, Java
-**Frontend:** HTML, CSS, JavaScript, React
-**Backend & Frameworks:** Java, Spring Boot, Spring Security
-**Databases:** MySQL
-**Cloud:** AWS (EC2, S3, RDS, Lambda)
-**CS Fundamentals:** Operating Systems, DBMS, OOPs, Networking, DSA
+**Languages**  
+C | C++ | Java | JavaScript
+
+**Frontend Development**  
+HTML | CSS | React
+
+**Backend Development**  
+Java | Spring Boot | Spring Security | REST APIs
+
+**Database & Cloud**  
+MySQL | AWS
+
+**Tools**  
+Git | GitHub | Postman | WordPress
+
+**Computer Science Fundamentals**  
+Data Structures & Algorithms | OOP | DBMS | Operating Systems | Computer Networks
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications
 
-* RHCSA – Red Hat Certified System Administrator
-* C++ Certification – Cisco & Certiport
-* Java Programming Certification – IT Specialist & Certiport
-* AWS Developer Associate
+- RHCSA – Red Hat Certified System Administrator
+- AWS Certified Developer – Associate
+- C++ Programming – Cisco & Certiport
+- Java Programming – IT Specialist & Certiport
 
 ---
 
-## 💬 Connect With Me
+## 📫 Connect With Me
 
-Email: [Jyothiofficial0309@gmail.com](mailto:Jyothiofficial0309@gmail.com)
-LinkedIn: [Jyothi Kudipudi](https://www.linkedin.com/in/jyothi03/)
+📧 **Jyothiofficial0309@gmail.com**  
+💼 **[LinkedIn](https://www.linkedin.com/in/jyothi03/)**
 
 ---
 
 <p align="center">
-  🚀 <b>"Code. Build. Deploy. Innovate."</b> | Aspiring to create tech solutions with global impact 🌍
+  <b>Code • Build • Learn • Improve</b> 🚀
 </p>
